@@ -1,7 +1,6 @@
 # file manipulation and exception handling: try, except, and else
 
 
-# Mac path: /Users/stefanmischook/Desktop/python ch8/people.txt
 # Win path: c:\Users\(username)\Desktop\python ch8\people.txt
 
 class Filer():
