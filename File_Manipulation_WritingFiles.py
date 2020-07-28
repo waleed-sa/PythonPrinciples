@@ -1,8 +1,8 @@
 # file manipulation writing to files
 
 
-# Mac path: /Users/stefanmischook/Desktop/python ch8/people.txt
-# Win path: c:\Users\(username)\Desktop\python ch8\people.txt
+
+# Win path: c:\Users\(username)\Desktop\people.txt
 
 class Filer():
     
