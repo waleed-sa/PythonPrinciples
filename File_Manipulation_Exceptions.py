@@ -23,4 +23,4 @@ class Filer():
                 print("\nWe were able to access the file. Cool!")
     
 myFiler = Filer()
-myFiler.openFile2('/Users/stefanmischook/Desktop/python ch8/people.txt')
+myFiler.openFile2('/Users/Desktop/people.txt')
